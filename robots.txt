@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://puntoreforma.es/sitemap.xml
